@@ -3,6 +3,7 @@
 </p>
 
 [![Build](https://github.com/yasan-org/para/workflows/Build/badge.svg)](https://github.com/yasan-org/para/actions/workflows/build.yml)
+[![](https://jitpack.io/v/yasan-org/para.svg)](https://jitpack.io/#yasan-org/para)
 
 A series of [Preview Providers](https://developer.android.com/reference/kotlin/androidx/compose/ui/tooling/preview/PreviewParameter) for [Jetpack Compose](https://developer.android.com/jetpack/compose) that any app can utilize.
 
