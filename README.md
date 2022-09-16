@@ -25,6 +25,6 @@ allprojects {
 
 ```groovy
 dependencies {
-    implementation 'com.github.yasan-org:para:Tag'
+    implementation 'com.github.yasan-org:para:main-SNAPSHOT'
 }
 ```
