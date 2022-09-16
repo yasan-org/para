@@ -1,4 +1,4 @@
-package dev.yasan.para.string.lorem
+package dev.yasan.para.string.lorem.paragraph
 
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 
