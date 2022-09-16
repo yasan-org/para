@@ -2,6 +2,8 @@
   <img src="https://github.com/yasan-org/para/blob/main/README.png" />
 </p>
 
+[![Build](https://github.com/yasan-org/para/workflows/Build/badge.svg)](https://github.com/yasan-org/para/actions/workflows/build.yml)
+
 A series of [Preview Providers](https://developer.android.com/reference/kotlin/androidx/compose/ui/tooling/preview/PreviewParameter) for [Jetpack Compose](https://developer.android.com/jetpack/compose) that any app can utilize.
 
 ## Download
