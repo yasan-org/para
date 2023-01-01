@@ -1,4 +1,4 @@
-package dev.yasan.para.string.sentence
+package glass.yasan.para.string.sentence
 
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 

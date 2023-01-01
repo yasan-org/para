@@ -1,4 +1,4 @@
-package dev.yasan.para.bool
+package glass.yasan.para.bool
 
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 

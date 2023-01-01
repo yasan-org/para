@@ -1,4 +1,4 @@
-package dev.yasan.para.string.name
+package glass.yasan.para.string.name
 
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 

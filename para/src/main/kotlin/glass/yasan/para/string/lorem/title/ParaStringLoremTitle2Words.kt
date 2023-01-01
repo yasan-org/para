@@ -1,4 +1,4 @@
-package dev.yasan.para.string.lorem.title
+package glass.yasan.para.string.lorem.title
 
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 

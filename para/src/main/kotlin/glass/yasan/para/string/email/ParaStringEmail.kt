@@ -1,4 +1,4 @@
-package dev.yasan.para.string.email
+package glass.yasan.para.string.email
 
 import androidx.compose.ui.tooling.preview.PreviewParameterProvider
 

@@ -27,6 +27,6 @@ allprojects {
 
 ```groovy
 dependencies {
-    implementation 'com.github.yasan-org:para:0.1.1'
+    implementation 'com.github.yasanglass:para:0.1.1'
 }
 ```
